@@ -29,6 +29,7 @@ metric (e.g. a %) is calculated and the user can see this.
 ------------------------------------------------------------------------------------------------------------------
 
 There are 3 classes being used in this project:
+
 	- The 'Control' class
 		- This is used to create a new GUI and run the program
 
@@ -43,4 +44,4 @@ There are 3 classes being used in this project:
 		- It then implements the searchFile method to check for the search term and using a flag it will let user know if no term was found.
 
 ------------------------------------------------------------------------------------------------------------------
-If I had more time 
+If I had more time I would add mutiple features to the program. One feature I would add is that when the user presses the enter button on a keyboard it will then activate the search button. Another feature I would add would be to implement a count feature for how many times the search term appears in each file.
